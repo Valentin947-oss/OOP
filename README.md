@@ -1,2 +1,0 @@
-# OOP
-Domasno Zadaci
