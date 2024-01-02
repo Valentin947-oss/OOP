@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student id="1">
+        <ime>Valentin</ime>
+        <prezime>Stojanovski</prezime>
+        <index>100</index>
+    </student>
+    <student id="2">
+        <ime>Andrej</ime>
+        <prezime>Tosheski</prezime>
+        <index>101</index>
+    </student>
+</students>
